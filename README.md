@@ -1,5 +1,6 @@
 Olá, meu nome é Luanna 👋
 
+- 🔭 Estagiária na TopDown Sistemas - Rio de Janeiro
 - 🔭 Estagiei no Tribunal de Justiça do Rio de Janeiro (2 anos)
 - 🌱 Estou focada no aprendizado de desenvolvimento web
 - 💬 Sou aluna da Universidade Veiga de Almeida e da Universidade Federal Fluminense, curso Ciência da Computação (bacharel) e Tecnologia em Sistemas de Computação, nesta ordem.
