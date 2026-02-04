@@ -4,5 +4,5 @@ Olá, meu nome é Luanna 👋
 - 🌱 Estou focada no aprendizado de Desenvolvimento Web
 - 💬 Bacharel em Ciência da Computação
 - 💬 Pós-Graduação em Big Data e Inteligência Competitiva
-- 📫 LinkedIn:https://www.linkedin.com/in/luanna-ferreir4/
-      E-mail: depaula.luanna09@gmail.com
+- 📫 LinkedIn:https://www.linkedin.com/in/luannadepaula/
+      E-mail: luanna.ferreir4@gmail.com
